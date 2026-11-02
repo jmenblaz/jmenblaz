@@ -6,15 +6,6 @@
 While my academic background focuses on 3D movement ecology and bio-logging, **I am deeply passionate about the versatility of GIS across all domains.** Whether it's environmental consulting, spatial planning, infrastructure mapping, or automated spatial workflows, I leverage GIS and data pipelines to solve spatial challenges and optimize decision-making.
 
 
-
-### 🛠️ Tech Stack & Tools
-
-**Spatial Analysis & Modeling:**
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
-
-
 ---
 
 #### 📊 GitHub Activity & Stats
